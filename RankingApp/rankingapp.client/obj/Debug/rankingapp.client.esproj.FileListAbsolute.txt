@@ -1,0 +1,1 @@
+E:\Projects\ranking_app\RankingApp\rankingapp.client\obj\Debug\rankingapp.client.esproj.CoreCompileInputs.cache
